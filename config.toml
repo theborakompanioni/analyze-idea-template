@@ -49,8 +49,12 @@ theme = "hugo-creative-theme"
 	[params.about]
 		headline    = "We've got what you need to test your ideas before creating them!"
 		description = "We provide you with an easy to create a website that analyzes people's interest with your idea. Find out possible customers and get in touch with your future audience."
-		buttonText  = "Try now!"
-
+		
+	[[params.about.buttons]]
+        modalID = "123"
+        buttonText  = "Try now!"
+        title = "Thank you for your interest!"
+        description = "We are currently working hard to bring our idea to life! Your interest encourages us and is what keeps us going! You can watch our progress at [our demo page](//google.com). Please feel free to send us an email with your suggestions, improvments and thoughts about our idea. What would it take to make it help you? We'd like to know!"
 
 	# Service section
 #	[params.services]
