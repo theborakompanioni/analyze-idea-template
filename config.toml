@@ -48,7 +48,8 @@ theme = "hugo-creative-theme"
 	# About section
 	[params.about]
 		headline    = "We've got what you need to test your ideas before creating them!"
-		description = "We provide you with an easy to create a website that analyzes people's interest with your idea. Find out possible customers and get in touch with your future audience."
+		description = "We provide you with an easy to create website that analyzes people's interest with your idea. Find out possible customers and get in touch with your future audience."
+		videourl = "http://techslides.com/demos/sample-videos/small.ogv"
 		
 	[[params.about.buttons]]
         modalID = "123"
