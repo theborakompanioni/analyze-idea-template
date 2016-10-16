@@ -94,7 +94,7 @@ theme = "hugo-creative-theme"
 
 		[params.aside.button]
 			text = "Create New Website"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+			link = "//github.com/theborakompanioni/analyze-idea-template"
 
 	# Contact section
 	[params.contact]
